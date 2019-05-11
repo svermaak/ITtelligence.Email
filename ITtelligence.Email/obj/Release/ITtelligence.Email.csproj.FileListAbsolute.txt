@@ -1,0 +1,6 @@
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\bin\Release\ITtelligence.Email.dll
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\bin\Release\ITtelligence.Email.pdb
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\obj\Release\ITtelligence.Email.csprojAssemblyReference.cache
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\obj\Release\ITtelligence.Email.csproj.CoreCompileInputs.cache
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\obj\Release\ITtelligence.Email.dll
+C:\Users\sverm\source\repos\ITtelligence.Email\ITtelligence.Email\obj\Release\ITtelligence.Email.pdb
